@@ -1,5 +1,5 @@
 # Goal
-It's my own dashboard to work
+Electron with React JS starter Application.
 
 # Access Electron from React App
 ```
